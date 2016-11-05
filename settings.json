@@ -1,0 +1,8 @@
+{
+    "debug": true,
+    "url": "localhost:6969",
+    "port": "6969",
+    "databasename": "opendrill",
+    "databaseurl": "mongodb://127.0.0.1",
+    "https": true
+}

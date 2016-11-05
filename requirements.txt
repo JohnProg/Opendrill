@@ -1,0 +1,10 @@
+#Pre requisites
+sudo apt-get install golang
+mkdir $HOME/go
+export GOPATH=$HOME/go
+export PATH=$PATH:$GOPATH/bin
+
+#Dependencies
+
+go get gopkg.in/mgo.v2
+go get github.com/gorilla/mux
